@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-<strong>N A Z I M I X－ＭD－T E M P L A T E</strong>
+<strong>N A Z I M I X－MD－T E M P L A T E</strong>
 </p>
 
 <p align="center">
