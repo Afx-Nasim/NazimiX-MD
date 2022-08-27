@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/⚠️INFO-fixing%20This%20reop/%20it%20will%20be%20public%20from%2010pm-cyan.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/NazimiX"><img title="Support" src="https://img.shields.io/badge/⚠️INFO-fixing%20This%20reop/%20it%20will%20be%20public%20from%2010pm-cyan.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 
 
@@ -14,7 +14,7 @@
 
 
 <p align="left">
-  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/maintained-yes-cyan.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/NazimiX"><img title="Support" src="https://img.shields.io/badge/maintained-yes-cyan.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 
 
@@ -24,11 +24,11 @@
 
 <br>
 <p align="left">
-  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/current%20Status-Updates%20Are%20coming%20soon!-orange.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/NazimiX"><img title="Support" src="https://img.shields.io/badge/current%20Status-Updates%20Are%20coming%20soon!-orange.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 <br>
 <p align="left">
-  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/next%20Condition-Testing%20only-green.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/NazimiX"><img title="Support" src="https://img.shields.io/badge/next%20Condition-Testing%20only-green.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 
 
@@ -43,18 +43,18 @@
 </p>
 
 <p align="center">
-<strong>ＡＬＩＥＮ ＡＬＦＡ－ＭＤ－ＴＥＭＰＬＡＴＥ</strong>
+<strong>N A Z I M I X－ＭD－T E M P L A T E</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/alien-Alfa"><img title="Release" src="https://img.shields.io/badge/Release-EDITABLE%20TEMPLATE-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/NazimiX"><img title="Release" src="https://img.shields.io/badge/Release-EDITABLE%20TEMPLATE-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 <p align="center">
 <a href="https://www.youtube.com/c/alienalfa"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=rose"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/alien-Alfa"><img title="Developer" src="https://img.shields.io/badge/Author-Alien%20Alfa-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/NazimiX"><img title="Developer" src="https://img.shields.io/badge/Author-Alien%20Alfa-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <br><br><br>
 <p align="center">
@@ -171,7 +171,7 @@ heroku/nodejs
   
 | [![Alien-Alfa](https://github.com/Alien-alfa.png?size=200)](https://github.com/Alien-Alfa) |
 |----|
-| [꧁𓊈𒆜ＡＬＩＥＮ ＡＬＦＡ𒆜𓊉꧂](https://github.com/AI-VIKI) |
+| [꧁𓊈𒆜N A Z I M I X𒆜𓊉꧂](https://github.com/AI-VIKI) |
 |  𒆜Bug Fixes, Modules, updates𒆜 |
   
   </div>
