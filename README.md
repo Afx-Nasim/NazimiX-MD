@@ -39,7 +39,7 @@
 
 
 <p align="center">
-  <a href="https://www.instagram.com/ys._.panda/"><img src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/Bungee%20Shades.png?raw=true" width="500" alt="Profile"/> </a>
+  <a href="https://www.instagram.com/ys._.panda/"><img src="https://i.imgur.com/q1KSbVB.jpeg" width="500" alt="Profile"/> </a>
 </p>
 
 <p align="center">
@@ -169,10 +169,15 @@ heroku/nodejs
 ## ⚠️ Modified By,
   <div align="center">
   
-| [![Alien-Alfa](https://github.com/Alien-alfa.png?size=200)](https://github.com/Alien-Alfa) |
+| [![TOXIC-KICHU](https://i.imgur.com/q1KSbVB.jpeg?size=200)](https://github.com/Alien-Alfa) |
 |----|
-| [꧁𓊈𒆜N A Z I M I X𒆜𓊉꧂](https://github.com/AI-VIKI) |
+| [꧁𓊈𒆜N A Z I M I X𒆜𓊉꧂](https://github.com/NazimiX) |
 |  𒆜Bug Fixes, Modules, updates𒆜 |
+| [![TOXIC-KICHU](https://github.com/TOXIC-KICHU.png?size=200)](https://github.com/Alien-Alfa) |
+|----|
+| [TOXIC-KICHU](https://github.com/TOXIC-KICHU) |
+|  𒆜Bug Fixes, Modifing as public |
+  
   
   </div>
 
