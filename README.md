@@ -82,7 +82,7 @@
  
  `Use This Button To Fork Now`
   
-  <a href="https://github.com/NazimiX/WhatsAppBot-MD-BETA2/fork"><img title="N A Z I M I X" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
+  <a href="https://github.com/Alien-alfa/WhatsAppBot-MD-BETA2/fork"><img title="N A Z I M I X" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
 <br>
 # `Scan QR Code For Session`
  
@@ -113,7 +113,7 @@
 
 
   ### ⚠️ Deploy With New Session <br>
-Click [FORK](https://github.com/NazimiX/WhatsAppBot-MD-BETA2/fork) <br>
+Click [FORK](https://github.com/Alien-alfa/WhatsAppBot-MD-BETA2/fork) <br>
   
 Now copy this url and change GITHUBID with your github username and click GO <br>
 
