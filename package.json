@@ -1,5 +1,5 @@
 {
-  "name": "AlienAlfaBot-MD",
+  "name": "NazimiX-MD",
   "version": "2.1.0",
   "description": "Beta Test By an Alien",
   "main": "index.js",
@@ -20,7 +20,7 @@
     "2021",
     "wabase-md"
   ],
-  "author": "Alien-Alfa.",
+  "author": "Nazim.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
@@ -74,10 +74,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Alien-Alfa/WhatsAppBot-MD.git"
+    "url": "git+https://github.com/NazimiX/NazimiX-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/Alien-Alfa/WhatsAppBot-MD/issues"
+    "url": "https://github.com/NazimiX/NazimiX-MD/issues"
   },
-  "homepage": "https://github.com/Alien-Alfa/WhatsAppBot-MD#readme"
+  "homepage": "https://github.com/NazimiX/NazimiX-MD#readme"
 }
