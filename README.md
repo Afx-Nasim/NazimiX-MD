@@ -169,11 +169,11 @@ heroku/nodejs
 ## ⚠️ Modified By,
   <div align="center">
   
-| [![TOXIC-KICHU](https://i.imgur.com/q1KSbVB.jpeg?size=200)](https://github.com/Alien-Alfa) |
+| [![TOXIC-KICHU](https://i.imgur.com/q1KSbVB.jpeg?size=200)](https://github.com/NazimiX) |
 |----|
 | [꧁𓊈𒆜N A Z I M I X𒆜𓊉꧂](https://github.com/NazimiX) |
 |  𒆜Bug Fixes, Modules, updates𒆜 |
-| [![TOXIC-KICHU](https://github.com/TOXIC-KICHU.png?size=200)](https://github.com/Alien-Alfa) |
+| [![TOXIC-KICHU](https://github.com/TOXIC-KICHU.png?size=200)](https://github.com/NazimiX) |
 |----|
 | [TOXIC-KICHU](https://github.com/TOXIC-KICHU) |
 |  𒆜Bug Fixes, Modifing as public |
