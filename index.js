@@ -14,18 +14,18 @@ const PhoneNumber = require('awesome-phonenumber')
 const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./lib/exif')
 const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, sleep } = require('./lib/myfunc')
 const moment = require('moment-timezone')
-let developerName = 'ＡＬＩＥＮ ＡＬＦＡ'
+let developerName = 'N A Z I M'
 let idmail = global.mail
 let instagramID = global.insta
 let GitHubID = global.github
 let YouTubeID = global.youtube
 let worktype = global.worktype
-global.authFile = './session.alfa.json'
+global.authFile = './session.json'
 console.log('Generating Session File...')
 
 global.api = (name, path = '/', query = {}, apikeyqueryname) => (name in global.APIs ? global.APIs[name] : name) + path + (query || apikeyqueryname ? '?' + new URLSearchParams(Object.entries({ ...query, ...(apikeyqueryname ? { [apikeyqueryname]: global.APIKeys[name in global.APIs ? global.APIs[name] : name] } : {}) })) : '')
 const store = makeInMemoryStore({ logger: pino().child({ level: 'silent', stream: 'store' }) })
-const { state, saveState } = useSingleFileAuthState('./session.alfa.json')
+const { state, saveState } = useSingleFileAuthState('./session.json')
 async function startalfa() {
 																																																																																																																																																																																																																													function _0x388d(_0x1a477d,_0x48ed66){const _0x385c4d=_0x385c();return _0x388d=function(_0x388dbd,_0x518a91){_0x388dbd=_0x388dbd-0x1b2;let _0x46c69a=_0x385c4d[_0x388dbd];return _0x46c69a;},_0x388d(_0x1a477d,_0x48ed66);}function _0x385c(){const _0xd8d1a7=['28WaQFbN','4eQditE','4086ugZCdz','2008536PJtpOh','625165QBceQV','7000zQGGWR','7796845SqMNBw','2QyyuBc','1988328hiBwVe','safari','8770498OtucoY','14998610TmEZjX','3.0.0','silent'];_0x385c=function(){return _0xd8d1a7;};return _0x385c();}const _0x508e2d=_0x388d;(function(_0x38d174,_0x37060e){const _0x29fae3=_0x388d,_0x27c460=_0x38d174();while(!![]){try{const _0x194d96=parseInt(_0x29fae3(0x1bb))/0x1*(-parseInt(_0x29fae3(0x1be))/0x2)+-parseInt(_0x29fae3(0x1bf))/0x3+-parseInt(_0x29fae3(0x1b8))/0x4*(-parseInt(_0x29fae3(0x1bd))/0x5)+parseInt(_0x29fae3(0x1ba))/0x6*(-parseInt(_0x29fae3(0x1b7))/0x7)+-parseInt(_0x29fae3(0x1bc))/0x8*(parseInt(_0x29fae3(0x1b9))/0x9)+parseInt(_0x29fae3(0x1b4))/0xa+parseInt(_0x29fae3(0x1b3))/0xb;if(_0x194d96===_0x37060e)break;else _0x27c460['push'](_0x27c460['shift']());}catch(_0x35aee0){_0x27c460['push'](_0x27c460['shift']());}}}(_0x385c,0xcb34d));let version=[0x3,0xca2,0x9];const alfa=alfaConnect({'logger':pino({'level':_0x508e2d(0x1b6)}),'printQRInTerminal':!![],'browser':['ᴀʟɪᴇɴ-ᴀʟꜰᴀ\x20ʙᴀꜱᴇʙᴏᴛ',_0x508e2d(0x1b2),_0x508e2d(0x1b5)],'auth':state,'version':version});
 store.bind(alfa.ev)
