@@ -82,7 +82,7 @@
  
  `Use This Button To Fork Now`
   
-  <a href="https://github.com/Alien-alfa/WhatsAppBot-MD-BETA2/fork"><img title="N A Z I M I X" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
+  <a href="https://github.com/NazimiX/NazimiX-MD/fork"><img title="N A Z I M I X" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
 <br>
 # `Scan QR Code For Session`
  
@@ -113,12 +113,12 @@
 
 
   ### ⚠️ Deploy With New Session <br>
-Click [FORK](https://github.com/Alien-alfa/WhatsAppBot-MD-BETA2/fork) <br>
+Click [FORK](https://github.com/NazimiX/NazimiX-MD/fork) <br>
   
 Now copy this url and change GITHUBID with your github username and click GO <br>
 
   ```
-  https://heroku.com/deploy?template=https://github.com/GITHUBID/WhatsAppBot-MD-BETA2 
+  https://heroku.com/deploy?template=https://github.com/GITHUBID/Nazimix-MD 
   ```
   
   <br> <br>
@@ -130,7 +130,7 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/Alien-alfa/WhatsAppBot-Template
+git clone https://github.com/NazimiX/NazimiX-MD
 cd WhatsAppBot-Template
 npm install
 npm i pm2
