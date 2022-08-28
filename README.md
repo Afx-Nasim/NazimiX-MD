@@ -131,7 +131,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 git clone https://github.com/NazimiX/NazimiX-MD
-cd WhatsAppBot-Template
+cd  NazimiX-MD
 npm install
 npm i pm2
 pm2 start index.js && pm2 save && pm2 logs
