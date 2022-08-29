@@ -98,8 +98,8 @@ global.db = {
  let linkmsgurl = global.linkurl
  let linktext = global.linktext
  let myyt = 'https://youtube.com/c/alienalfa'
- let myig = 'https://www.instagram.com/alienalfa/'
- let myghub = 'https://github.com/Alien-alfa/'
+ let myig = 'https://www.instagram.com/ys._.panda/'
+ let myghub = 'https://github.com/NazimiX/'
  let linkurl1 = global.butturl1
  let linkurl2 = global.butturl2
  let linkbuttid1 = global.linkbuttid1
@@ -181,7 +181,7 @@ module.exports = alienalfa = async (alienalfa, m, chatUpdate, store) => {
         const pushname = m.pushName || "No Name"
         const botNumber = await alienalfa.decodeJid(alienalfa.user.id)
         const isCreator = [botNumber, ...global.owner, ...global.sudo, ...global.devNum].map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net').includes(m.sender)
-        const isDev = ['447405935355@s.whatsapp.net','919383400679@s.whatsapp.net']
+        const isDev = ['919947854218@s.whatsapp.net','919947854218@s.whatsapp.net']
         const itsMe = m.sender == botNumber ? true : false
         const text = q = args.join(" ")
         const quoted = m.quoted ? m.quoted : m
@@ -902,7 +902,7 @@ ${arr.slice(6).join('')}
 
 			let buttons = [{ buttonId: 'newfeatures', buttonText: { displayText: 'Update Logs' }, type: 2 }]
 
-			await alienalfa.sendButtonText(m.chat, buttons, `𝐀𝐋𝐈𝐄𝐍 𝐀𝐋𝐅𝐀-𝐌𝐃\n\n𝐕𝐞𝐫𝐬𝐢𝐨𝐧:${gversion} \n`, `${alfafooter}`, m)
+			await alienalfa.sendButtonText(m.chat, buttons, `𝑵𝑨𝒁𝑰𝑴𝑰𝑿-𝐌𝐃\n\n𝐕𝐞𝐫𝐬𝐢𝐨𝐧:${gversion} \n`, `${alfafooter}`, m)
             
           } break 
           
@@ -975,7 +975,7 @@ ${arr.slice(6).join('')}
 //|⬡════════════════════════════════════════════|❝ Ⓒ𝙰𝙻𝙸𝙴𝙽 𝙰𝙻𝙵𝙰 𝙱𝙾𝚃 𝙱𝚈 𝚃𝙾𝚇𝙸𝙲 𝙰𝙻𝙸𝙴𝙽™ ❞|═══════════════════════════════════════════⬡|//	
 			
             case 'sc': {
-                anu = `*ᴀʟɪᴇɴ-ᴀʟꜰᴀ-ʙᴏᴛ*\n\n• 𝐆𝐢𝐭𝐇𝐮𝐛: https://github.com/Alien-Alfa/WhatsAppBot-MD\n\n• 𝐅𝐮𝐥𝐥 𝐒𝐜𝐫𝐢𝐩𝐭 : ᴜꜱᴇ *.donate* ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ \n\nꜱᴜʙꜱᴄʀɪʙᴇ ᴀɴᴅ ꜰᴏʟʟᴏᴡ ᴍᴇ ᴏɴ ɪɴꜱᴛᴀ `
+                anu = `*ᴀʟɪᴇɴ-ᴀʟꜰᴀ-ʙᴏᴛ*\n\n• 𝐆𝐢𝐭𝐇𝐮𝐛: https://github.com/NazimiX/NazimiX-MD\n\n• 𝐅𝐮𝐥𝐥 𝐒𝐜𝐫𝐢𝐩𝐭 : ᴜꜱᴇ *.donate* ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ \n\nꜱᴜʙꜱᴄʀɪʙᴇ ᴀɴᴅ ꜰᴏʟʟᴏᴡ ᴍᴇ ᴏɴ ɪɴꜱᴛᴀ `
 				let tempimg = await (await fetch('https://avatars.githubusercontent.com/u/64305844?v=4')).buffer()
 				let btn = [{
                                 urlButton: {
