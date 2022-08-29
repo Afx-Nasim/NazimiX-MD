@@ -58,7 +58,7 @@
 </p>
 <br><br><br>
 <p align="center">
-  <a href="https://chat.whatsapp.com/JKdPcantKre0Mx3mzNUdIu"><img title="Join Whatsapp Group" src="https://raw.githubusercontent.com/Alien-alfa/PublicBot/main/wlogo.svg.png" width="600"></a>
+  <a href="wa.me/+919947854218"><img title="Join Whatsapp Group" src="https://raw.githubusercontent.com/Alien-alfa/PublicBot/main/wlogo.svg.png" width="600"></a>
 </p>
 <br><br>
 <p align="center">
@@ -171,7 +171,7 @@ heroku/nodejs
   
 | [![TOXIC-KICHU](https://i.imgur.com/q1KSbVB.jpeg?size=200)](https://github.com/NazimiX) |
 |----|
-| [꧁𓊈𒆜N A Z I M I X𒆜𓊉꧂](https://github.com/NazimiX) |
+| [𓊈𒆜N A Z I M I X𒆜𓊉](https://github.com/NazimiX) |
 |  𒆜Bug Fixes, Modules, updates𒆜 |
 | [![TOXIC-KICHU](https://github.com/TOXIC-KICHU.png?size=200)](https://github.com/NazimiX) |
 |----|
