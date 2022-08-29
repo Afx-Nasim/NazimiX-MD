@@ -70,7 +70,7 @@ global.APIKeys = {
 
    //---------------------------------------------------------------------
 
-   global.worktype = 'private'
+   global.worktype = 'public'
 
    //---------------------------------------------------------------------
    
@@ -129,7 +129,7 @@ global.APIKeys = {
 
    //--------------------- MAIN IMAGE  ------------------------
 
-   global.profileimage = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true'
+   global.profileimage = 'https://i.imgur.com/q1KSbVB.jpeg'
       
    //---------------------------------------------------------------------
 
@@ -137,7 +137,7 @@ global.APIKeys = {
 
    //--------------------- URL IMAGE  ------------------------
 
-   global.mainimgurl = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true'
+   global.mainimgurl = 'https://i.imgur.com/q1KSbVB.jpeg'
       
    //---------------------------------------------------------------------
 
@@ -187,7 +187,7 @@ global.APIKeys = {
 //-------------
 global.premium = [`${ownernum}`]
 //-------------
-global.sessionName = 'session.alfa'
+global.sessionName = 'session'
 //-------------
 global.prefa = ['','!','.','🐦','🐤','🗿']
 //-------------
@@ -249,7 +249,7 @@ global.anticall = false
 
 
 
-global.thumb = fs.readFileSync('./lib/lowdb/adapters/alfa.jpg')
+global.thumb = fs.readFileSync('./src/MD-Images/bot.jpg')
 
 global.mess = {
     success: 'ᴅᴏɴᴇ',
