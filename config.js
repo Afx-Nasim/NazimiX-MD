@@ -70,7 +70,7 @@ global.APIKeys = {
 
    //---------------------------------------------------------------------
 
-   global.worktype = 'public'
+   global.worktype = 'private'
 
    //---------------------------------------------------------------------
    
@@ -199,7 +199,7 @@ global.devNum = ['919947854218']
 //-------------
 global.greetings = 'Hey  👋🏻'
 //-------------
-global.listicon = '✩' 
+global.listicon = '𒆜' 
 //-------------
 global.wm = 'N A Z I M I X' 
 //-------------
