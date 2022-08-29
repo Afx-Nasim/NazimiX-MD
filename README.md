@@ -58,7 +58,7 @@
 </p>
 <br><br><br>
 <p align="center">
-  <a href="wa.me/+919947854218"><img title="Join Whatsapp Group" src="https://raw.githubusercontent.com/Alien-alfa/PublicBot/main/wlogo.svg.png" width="600"></a>
+  <a href="https://chat.whatsapp.com/KVBcLiclR2a9YPZOHhdPTu"><img title="Join Whatsapp Group" src="https://raw.githubusercontent.com/Alien-alfa/PublicBot/main/wlogo.svg.png" width="600"></a>
 </p>
 <br><br>
 <p align="center">
