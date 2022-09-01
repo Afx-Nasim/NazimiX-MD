@@ -97,7 +97,7 @@ global.APIKeys = {
 
    global.linkbuttid1 = 'ɪɴꜱᴛᴀɢʀᴀᴍ' 
    //-------------
-   global.butturl1 = 'https://www.instagram.com/ys._.panda/'
+   global.butturl1 = 'https://www.instagram.com/nazim_ix/'
    
    //---------------------------------------------------------------------
 
@@ -213,7 +213,7 @@ global.youtube = 'https://youtube.com/c/alienalfa'
 //-------------
 global.github = 'https://github.com/NazimiX/' 
 //-------------
-global.insta = 'https://www.instagram.com/ys._.panda/' 
+global.insta = 'https://www.instagram.com/nazim_ix/' 
 //-------------
 global.linkname = '𝑁𝐴𝑍𝐼𝑀𝐼𝑋'
 //-------------
