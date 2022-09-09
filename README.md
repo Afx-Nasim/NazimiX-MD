@@ -86,7 +86,7 @@
 <br>
 # `Scan QR Code For Session`
  
-<a href="https://alien-alfa-md.up.railway.app/"><img title="N A Z I M I X" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
+<a href="https://qr-nazimix.herokuapp.com/"><img title="N A Z I M I X" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
   <br><br><br>
 # `Upload Session to Github`
 
@@ -189,7 +189,7 @@ There are unsolved bugs in this bot🎈
 ## ⚠️ Thanks To 😻
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 * [`Alien Alfa`](https://github.com/Alien-Alfa)
-* [`Dika Ardnt`](https://github.com/DikaArdnt)
+* [`Dika Ardnt`](https://github.com/Leoboy30)
 
 `And All People Who Worked In The Base Of This Project`
 
