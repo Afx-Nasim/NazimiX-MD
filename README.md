@@ -86,7 +86,7 @@
 <br>
 # `Scan QR Code For Session`
  
-<a href="https://qr-nazimix.herokuapp.com/"><img title="N A Z I M I X" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
+<a href="https://jack-1122.herokuapp.com/"><img title="N A Z I M I X" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
   <br><br><br>
 # `Upload Session to Github`
 
