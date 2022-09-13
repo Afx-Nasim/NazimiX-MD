@@ -39,7 +39,7 @@
 
 
 <p align="center">
-  <a href="https://www.instagram.com/ys._.panda/"><img src="https://i.imgur.com/q1KSbVB.jpeg" width="500" alt="Profile"/> </a>
+  <a href="https://www.instagram.com/nazim_ix/"><img src="https://i.imgur.com/q1KSbVB.jpeg" width="500" alt="Profile"/> </a>
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@
 <h3 align="center">Contact Me:</h3>
 <p align="center">
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kyrie_baran" height="30" width="40" /></a>
-<a href="https://instagram.com/ys._.panda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/nazim_ix" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 
 <br><br>
