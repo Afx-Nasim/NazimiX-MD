@@ -911,7 +911,7 @@ ${arr.slice(6).join('')}
           case 'newfeatures': {
 			  
 			let texks = `
-𝐀𝐋𝐈𝐄𝐍 𝐀𝐋𝐅𝐀-𝐌𝐃\n\n𝐕𝐞𝐫𝐬𝐢𝐨𝐧:${gversion}
+nαzímíх-md\n\n𝐕𝐞𝐫𝐬𝐢𝐨𝐧:${gversion}
 
             𝐍𝐞𝐰 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬
 
