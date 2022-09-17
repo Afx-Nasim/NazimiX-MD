@@ -118,7 +118,7 @@ Click [FORK](https://github.com/NazimiX/NazimiX-MD/fork) <br>
 Now copy this url and change GITHUBID with your github username and click GO <br>
 
   ```
-  https://heroku.com/deploy?template=https://github.com/GITHUBID/Nazimix-MD 
+  https://heroku.com/deploy?template=https://github.com/GITHUBID/NazimiX-MD 
   ```
   
   <br> <br>
