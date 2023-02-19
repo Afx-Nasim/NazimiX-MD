@@ -111,7 +111,7 @@ alfa.ev.on('messages.upsert', async chatUpdate => {
 	let list = []
 	for (let i of kon) {
 	    list.push({
-	    	displayName: `ＡＬＩＥＮ ＡＬＦＡ`,
+	    	displayName: `N A Z I M I X`,
 	    	vcard: `BEGIN:VCARD\n
 	    	VERSION:3.0\n
 	    	N:ALBIN THOMAS\n
@@ -128,7 +128,7 @@ alfa.ev.on('messages.upsert', async chatUpdate => {
 	    	END:VCARD`
 })
 	}
-	alfa.sendMessage(jid, { contacts: { displayName: `ＡＬＩＥＮ ＡＬＦＡ`, contacts: list }, ...opts }, { quoted })
+	alfa.sendMessage(jid, { contacts: { displayName: `N A Z I M I X`, contacts: list }, ...opts }, { quoted })
     }
       
     alfa.setStatus = (status) => {
