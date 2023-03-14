@@ -70,7 +70,7 @@ global.APIKeys = {
 
    //---------------------------------------------------------------------
 
-   global.worktype = 'public'
+   global.worktype = 'private'
 
    //---------------------------------------------------------------------
    
@@ -213,7 +213,7 @@ global.youtube = 'https://youtube.com/c/alienalfa'
 //-------------
 global.github = 'https://github.com/NazimiX/' 
 //-------------
-global.insta = 'https://www.instagram.com/nazim_ix/' 
+global.insta = 'https://www.instagram.com/nazim.x10/' 
 //-------------
 global.linkname = '𝑁𝐴𝑍𝐼𝑀𝐼𝑋'
 //-------------
