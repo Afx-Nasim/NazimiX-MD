@@ -70,7 +70,7 @@ global.APIKeys = {
 
    //---------------------------------------------------------------------
 
-   global.worktype = 'public'
+   global.worktype = 'private'
 
    //---------------------------------------------------------------------
    
@@ -85,7 +85,7 @@ global.APIKeys = {
    
    global.packname = 'N A Z I M' 
    //-------------
-   global.author = 'I X'
+   global.author = 'MWON'
 
    //---------------------------------------------------------------------
 
@@ -97,7 +97,7 @@ global.APIKeys = {
 
    global.linkbuttid1 = 'ɪɴꜱᴛᴀɢʀᴀᴍ' 
    //-------------
-   global.butturl1 = 'https://www.instagram.com/nazim_ix/'
+   global.butturl1 = 'https://www.instagram.com/nazim.x10/'
    
    //---------------------------------------------------------------------
 
