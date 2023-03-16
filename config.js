@@ -85,7 +85,7 @@ global.APIKeys = {
    
    global.packname = 'N A Z I M' 
    //-------------
-   global.author = 'MWON'
+   global.author = 'M W O N'
 
    //---------------------------------------------------------------------
 
@@ -107,7 +107,7 @@ global.APIKeys = {
 
    global.linkbuttid2 = 'ʏᴏᴜᴛᴜʙᴇ'
    //-------------
-   global.butturl2 = 'https://youtube.com/c/alienalfa'
+   global.butturl2 = 'https://github.com/NazimiX/NazimiX-MD'
    
    //---------------------------------------------------------------------
 
@@ -193,7 +193,7 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 //-------------
 global.sp = '𒆜'
 //-------------
-global.devname = 'N A Z I M I X'
+global.devname = 'N A Z I M'
 //-------------
 global.devNum = ['919947854218']
 //-------------
@@ -201,9 +201,9 @@ global.greetings = 'Hey  👋🏻'
 //-------------
 global.listicon = '𒆜' 
 //-------------
-global.wm = 'N A Z I M I X' 
+global.wm = 'N A Z I M - M W O N' 
 //-------------
-global.botname = 'N A Z I M I X'
+global.botname = 'N A Z I M - M W O N'
 //-------------
 global.icon = '✩' 
 //-------------
@@ -215,9 +215,9 @@ global.github = 'https://github.com/NazimiX/'
 //-------------
 global.insta = 'https://www.instagram.com/nazim.x10/' 
 //-------------
-global.linkname = '𝑁𝐴𝑍𝐼𝑀𝐼𝑋'
+global.linkname = '𝑁𝐴𝑍𝐼𝑀'
 //-------------
-global.mainfooter = '𝑁𝐴𝑍𝐼𝑀𝐼𝑋' 
+global.mainfooter = '𝑁𝐴𝑍𝐼𝑀' 
 //-------------
 global.herokuapi = '' 
 //-------------
